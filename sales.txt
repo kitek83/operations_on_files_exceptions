@@ -1,0 +1,11 @@
+The value of sales from the day:1is:4.0
+Total sale until day:1is:4.0
+NoneThe value of sales from the day:2is:5.0
+Total sale until day:2is:9.0
+NoneThe value of sales from the day:3is:6.0
+Total sale until day:3is:15.0
+NoneThe value of sales from the day:4is:1.0
+Total sale until day:4is:16.0
+NoneThe value of sales from the day:5is:2.0
+Total sale until day:5is:18.0
+None

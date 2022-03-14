@@ -1,0 +1,15 @@
+--------------------------------------
+name of coffee:arabica
+quantity of coffee:22.0
+--------------------------------------
+name of coffee:costa
+quantity of coffee:33.0
+--------------------------------------
+name of coffee:coca
+quantity of coffee:12.0
+--------------------------------------
+name of coffee:bavaria
+quantity of coffee:34.0
+--------------------------------------
+name of coffee:original
+quantity of coffee:4.0

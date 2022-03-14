@@ -1,0 +1,22 @@
+def main():
+    em_file = open('employees.txt', 'r')
+    line = em_file.readline()
+    while line != '':
+        wer_nr = em_file.readline()
+        name = em_file.readline()
+        id = em_file.readline()
+        dep = em_file.readline()
+        line = line.rstrip()
+        wer_nr = wer_nr.rstrip()
+        name = name.rstrip()
+        id = id.rstrip()
+        dep = dep.rstrip()
+        print(line)
+        print(wer_nr)
+        print(name)
+        print(id)
+        print(dep)
+        line = em_file.readline()
+    em_file.close()
+
+main()

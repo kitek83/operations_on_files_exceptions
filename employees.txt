@@ -1,0 +1,15 @@
+-----------------------------------
+This is the worker nr1:
+Name:Kris Kozak
+Id number:4556.0
+Department:It
+-----------------------------------
+This is the worker nr2:
+Name:Jacek Mence
+Id number:4558.0
+Department:Advert
+-----------------------------------
+This is the worker nr3:
+Name:Grzegorz Kozak
+Id number:4778.0
+Department:Marketing

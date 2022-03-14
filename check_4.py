@@ -1,0 +1,7 @@
+file = open('students.txt','r')
+descr = file.readline()
+qty = file.readline()
+descr = descr.rstrip()
+qty = qty.rstrip()
+print(descr)
+print(float(qty))
